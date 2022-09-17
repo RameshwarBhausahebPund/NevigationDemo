@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/nu1"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/mess"
+        android:icon="@drawable/nu2"
+        android:title="Daily Update" />
+    <item
+        android:id="@+id/chat"
+        android:icon="@drawable/nu3"
+        android:title="Daily Event" />
+    <item
+        android:id="@+id/story"
+        android:icon="@drawable/nu4"
+        android:title="Story" />
+</menu>
