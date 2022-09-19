@@ -4,9 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/IPT/AndroidStudioProjects/NevigationDemo/app/src/main/res/drawable/cal_icon.xml" value="0.2105" />
+        <entry key="..\:/Users/IPT/AndroidStudioProjects/NevigationDemo/app/src/main/res/drawable/ic_baseline_camera_alt_24.xml" value="0.144" />
         <entry key="..\:/Users/IPT/AndroidStudioProjects/NevigationDemo/app/src/main/res/drawable/ic_mail.xml" value="0.1675" />
         <entry key="..\:/Users/IPT/AndroidStudioProjects/NevigationDemo/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/IPT/AndroidStudioProjects/NevigationDemo/app/src/main/res/layout/content.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/IPT/AndroidStudioProjects/NevigationDemo/app/src/main/res/layout/dailogbox.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/IPT/AndroidStudioProjects/NevigationDemo/app/src/main/res/layout/fragment_chat.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/IPT/AndroidStudioProjects/NevigationDemo/app/src/main/res/layout/fragment_mes.xml" value="0.25" />
         <entry key="..\:/Users/IPT/AndroidStudioProjects/NevigationDemo/app/src/main/res/layout/fragment_profile.xml" value="0.17074275362318841" />
