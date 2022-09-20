@@ -125,8 +125,10 @@ android:background="@color/white"
                 android:orientation="horizontal"
                 >
                 <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+
                     android:layout_gravity="center"
                     android:id="@+id/addimg"
                     android:src="@drawable/ic_baseline_add_photo_alternate_24"/>
